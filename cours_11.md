@@ -8,4 +8,4 @@ Nommer deux points forts de votre présentation.
 Nommer deux points à améliorer de votre présentation et expliquer comment vous allez les travailler pour les prochaines présentations. 
 
 ### Présentation préférée
-Quelle présentation avez-vous préféré et pourquoi? 
+Guillaume (spinning rat (high definition)(real funny)), car il était très drôle en même temps qu'il était efficace à nous démontré son tutoriel.
