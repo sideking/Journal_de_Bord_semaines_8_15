@@ -2,7 +2,7 @@
 ## Retour sur la visite de SidLee et PixMob
 
 ### Intérêt
-Laquelle des conférences as-tu préféré et pourquoi? (2 à 3 lignes) 
+SidLee, je ne me vois pas travailler dans ce domaine mais je peux comprendre son "importance" dans l'industrie du multimédia. j'imagine que être dans une cafetéria où ils étaient en train de faire de la nourriture m'a rendu un peu biaisé, mais dans tout les cas, la présentation de PixMob, quoi que intéressante, était ennuyante.
 
 ### Travail
-Te verrais-tu travailler dans une des deux entreprises? Si oui, laquelle et pour quelle raison? Si non, pourquoi? (2 à 3 lignes)
+Non. Je suis pas intéressé à travaillé dans ce genre de d'emplois. je préfèrerais être dans un environement de jeu vidéo, car c'est ca qui m'intéresse. PixMob était le travail le plus intéressant, mais j'aime pas le style de travail.
