@@ -5,6 +5,8 @@ Durée: 8 à 10 minutes
 ### Résumer votre projet en une phrase
 Résumer le projet en une phrase concise.   
 
+Tower-Defense où tu est le vilain
+
 ### Description du projet 
 Décrivez les grandes lignes de votre projet. 
 
