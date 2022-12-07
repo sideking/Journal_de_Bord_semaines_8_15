@@ -17,7 +17,10 @@ Expliquer le déroulement de votre expérience grâce à un schéma narratif ou 
 1. l'ancien gungeon explose
 2. tu te fais engager pour défendre un gungeon
 3. tu rassemble une armé pour défendre le gungeon
-4. 
+4. tu défend le donjon
+5. tu trouve des ancienne hierogluphe dans les catacombes
+6. tu tue un MÉGA BOSS
+7.  tu détruit le gungeon par toi meme
 
 ### Moodboard
 Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
@@ -25,5 +28,11 @@ Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moo
 ### Technologies
 Décrivez quelles seront les technologies utilisées dans votre projet. 
 
+Unity
+
 ### Tâches
 Quelles sont les tâches nécessaires à la réalisation de votre projet? 
+
+animateurs 2d
+poducteur
+musiciens
