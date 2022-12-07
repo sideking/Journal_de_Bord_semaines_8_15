@@ -10,8 +10,14 @@ Tower-Defense où tu est le vilain
 ### Description du projet 
 Décrivez les grandes lignes de votre projet. 
 
+Become the gungeon est le troisième jeu de la série gungeon, il change la facon de jouer par son style totalement different. De jour tu protêge ton donjon des héros voulant le détruire et de nuit tu explores d'ancienne catacombes qui se trouve sous le donjon.
+
 ### Schéma du projet ou scénarimage
 Expliquer le déroulement de votre expérience grâce à un schéma narratif ou à un scénarimage. 
+1. l'ancien gungeon explose
+2. tu te fais engager pour défendre un gungeon
+3. tu rassemble une armé pour défendre le gungeon
+4. 
 
 ### Moodboard
 Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
